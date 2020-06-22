@@ -1,4 +1,4 @@
-# House-Price-Predicition
+# House-Price-Prediction
 Investment is a business activity on which most people are interested in this globalization era. 
 There are several objects that are often used for investment, for example, gold, stocks and property. 
 In particular, property investment has increased significantly. 
